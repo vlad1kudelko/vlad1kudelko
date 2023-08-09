@@ -1,6 +1,8 @@
 # 💫 About Me:
 
-Hi, 👋. Are you looking for a Senior Full Stack developer who can help you turn your<br>ideas into reality with clean, reliable code? With my wide range of technical skills<br>and years of experience, I am confident that I can provide you with the expertise<br>you need to bring your project to life.<br><br>🏠 I usually work from home, independently. Not associated with any agency, as<br>well as do not outsource my work, so it is always me - no "middle-man" in between<br>or junior developer on the background.
+Hi, 👋. Are you looking for a Senior Full Stack developer who can help you turn your ideas into reality with clean, reliable code? With my wide range of technical skills and years of experience, I am confident that I can provide you with the expertise you need to bring your project to life.
+
+🏠 I usually work from home, independently. Not associated with any agency, as well as do not outsource my work, so it is always me - no "middle-man" in between or junior developer on the background.
 
 
 # 💻 Tech Stack:
