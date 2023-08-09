@@ -215,6 +215,8 @@ Hi, 👋. Are you looking for a Senior Full Stack developer who can help you tur
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=vlad1kudelko&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vlad1kudelko&theme=dark&hide_border=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=vlad1kudelko&theme=dark&hide_border=true&include_all_commits=true&count_private=true) -->
+
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=vlad1kudelko&theme=dark&hide_border=true) -->
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vlad1kudelko&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
