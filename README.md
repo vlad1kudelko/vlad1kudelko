@@ -213,8 +213,4 @@ Hi, 👋. Are you looking for a Senior Full Stack developer who can help you tur
 <!-- ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) -->
 <!-- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) -->
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vlad1kudelko&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 <!-- https://gprm.itsvg.in/ -->
