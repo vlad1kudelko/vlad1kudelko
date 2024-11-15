@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-Hi, 👋. Are you looking for a Senior Full Stack developer who can help you turn your ideas into reality with clean, reliable code? With my wide range of technical skills and years of experience, I am confident that I can provide you with the expertise you need to bring your project to life.
+Hi, 👋. Are you looking for a Full Stack developer who can help you turn your ideas into reality with clean, reliable code? With my wide range of technical skills and years of experience, I am confident that I can provide you with the expertise you need to bring your project to life.
 
-🏠 I usually work from home, independently. Not associated with any agency, as well as do not outsource my work, so it is always me - no "middle-man" in between or junior developer on the background.
+I graduated from the Technical University with a degree in computer science in 2017. Since that time, I have been continuously developing software products. during this time, I have worked with various technology stacks, but the main ones for me are web development in javascript and writing scripts in python.
 
 # 💻 Tech Stack:
 
